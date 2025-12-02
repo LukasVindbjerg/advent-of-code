@@ -3,6 +3,7 @@
 
 # CMake build
 build/
+build-debug/
 cmake-build-*/
 
 
